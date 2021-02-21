@@ -9,3 +9,8 @@ int Add_One(const int a)
 {
     return a + 1;
 }
+
+int Add_Two(const int a)
+{
+    return a + 2;
+}
